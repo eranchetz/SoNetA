@@ -1,0 +1,37 @@
+.tweet
+{
+display: block;
+background: white;
+border: 1px solid #444;
+border-radius: 10px;
+clear: both;
+padding: .6em;
+margin: .3em;
+overflow: hidden;
+}
+.tweet img
+{
+float: left;
+margin-right: 1em;
+border: 2px solid #222;
+background: #444;
+}
+.tweet p.text
+{
+margin: 0;
+padding: 0;
+padding-left: 60px;
+}
+.monitter 
+{
+float: left;
+width: 280px;
+height: 350px;
+margin: 1px;
+
+border-radius: 15px;
+background: white; 
+overflow:hidden;
+}
+
+
